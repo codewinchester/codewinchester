@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI Design and Full Stack Web Developmnent.
 - 📫 You can reach me using my email : officialkipchumbakenneth@gmail.com.
 - 📖 You can follow my UI Design Journey here : https://medium.com/@officialkipchumbakenneth
-- ⚡ Fun fact: Github is my own personal library and the books represent my code free for people to read and use.  
+- ⚡ Fun fact: Github is a public library and the books represent different pieces of code including mine and are  free for people to read and use.  
 
 <!---
 codewinchester/codewinchester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
