@@ -1,5 +1,5 @@
 - 👋 Yowza!, I’m @codewinchester.
-- 👀 I’m interested in contributing to open source projects and any team collaboration projects.
+- 👀 I’m interested in contributing to open source projects.
 - 🌱 I’m currently learning UI Design and Full Stack Web Developmnent.
 - 📫 You can reach me using my email : officialkipchumbakenneth@gmail.com.
 - 📖 You can also follow my UI Design Journey here : https://medium.com/@officialkipchumbakenneth
