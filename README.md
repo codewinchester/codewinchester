@@ -10,13 +10,11 @@ Currently deepening my expertise in networking and IT infrastructure, with a lon
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Fault Diagnosis & Troubleshooting         | |
-| TCP/IP, DNS, DHCP Configuration | |
-| IT Service Management & Ticketing (Jira)         ||
-| Active Directory & User Administration      | |
-| Hardware Diagnostics & Endpoint Support                 | |
+- Network Fault Diagnosis & Troubleshooting        
+- TCP/IP, DNS, DHCP Configuration
+- IT Service Management & Ticketing (Jira)        
+- Active Directory & User Administration     
+- Hardware Diagnostics & Endpoint Support         
 
 ## Tools
 
