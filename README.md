@@ -1,23 +1,22 @@
 # Hi there, My name is Kenneth and ...
 
-I'm an IT Support Specialist (T1) whose interests lie in Networking, Cybersecurity and Programming.
+I'm an IT Support Specialist (T1) whose interests are in Networking, Cybersecurity and Programming.
 
 <a href="https://www.linkedin.com/in/kenneth-kipchumba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-Experienced IT Support Specialist looking to deepen my expertise in networking and infrastructure, with a long-term interest in cybersecurity.
+Currently deepening my expertise in networking and IT infrastructure, with a long-term interest in cybersecurity.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Fault Diagnosis & Troubleshooting         | |
+| TCP/IP, DNS, DHCP Configuration | |
+| IT Service Management & Ticketing (Jira)         ||
+| Active Directory & User Administration      | |
+| Hardware Diagnostics & Endpoint Support                 | |
 
 ## Tools
 
@@ -42,7 +41,7 @@ Experienced IT Support Specialist looking to deepen my expertise in networking a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
